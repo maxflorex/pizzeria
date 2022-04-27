@@ -7,5 +7,5 @@ module.exports = {
       'sans': ['Space Grotesk', 'sans-serif']
     }
   },
-  plugins: [],
+  plugins: [require("daisyui")],
 }
